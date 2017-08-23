@@ -1,0 +1,20 @@
+{
+  "name": "vk_comments",
+  "version": "0.1.0",
+  "description": "download comments from specified wall on VK.COM",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r9032504423",
+  "license": "ISC",
+  "dependencies": {
+    "node-vkapi": "^2.1.0",
+    "nosql": "^5.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r9032504423/vk_comments.git"
+  },
+}
